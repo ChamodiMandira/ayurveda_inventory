@@ -1,0 +1,33 @@
+# ============================================================
+#  Ayurveda Inventory — .gitignore
+# ============================================================
+
+# Database credentials (NEVER commit these)
+includes/db.php
+
+# Seed / demo data SQL (optional — remove this line if you want it tracked)
+# seed_data.sql
+
+# XAMPP / PHP logs
+*.log
+error_log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if any tooling added later)
+node_modules/
+npm-debug.log
+
+# Compiled / temp files
+*.tmp
+*.bak
+*.orig
