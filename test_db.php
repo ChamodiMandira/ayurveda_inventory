@@ -1,15 +1,9 @@
 <?php
+require_once __DIR__ . '/includes/db.php';
 
-$host = "localhost";
-$username = "root";
-$password = "";
-$database = "ayurveda_inventory";
-
-$conn = new mysqli($host, $username, $password, $database);
-
-if ($conn->connect_error) {
-    die("Database connection failed: " . $conn->connect_error);
+if ($conn && !$conn->connect_error) {
+    echo "Database connection successful! Connected to: " . ($is_local ? "Localhost (XAMPP)" : "InfinityFree MySQL");
+} else {
+    echo "Database connection failed.";
 }
-
-echo "Database connection successful!";
 ?>
