@@ -117,11 +117,17 @@ ayurveda_inventory/
 
 ## 📸 Screenshots
 
-### 📊 Dashboard
-![Dashboard Screenshot](screenshots/dashboard.jpg)
+### 📊 Dashboard Overview
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ### 💊 Medicine Items Management
-![Items Screenshot](screenshots/items.jpg)
+![Items Screenshot](screenshots/items.png)
+
+### 📦 Stock In Management
+![Stock In Screenshot](screenshots/stock_in.png)
+
+### 📄 Inventory & Expiry Reports
+![Reports Screenshot](screenshots/reports.png)
 
 ---
 
