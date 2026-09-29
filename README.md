@@ -117,7 +117,11 @@ ayurveda_inventory/
 
 ## 📸 Screenshots
 
-> Dashboard, Items, Stock In, Reports pages — professional Ayurveda-themed design.
+### 📊 Dashboard
+![Dashboard Screenshot](screenshots/dashboard.jpg)
+
+### 💊 Medicine Items Management
+![Items Screenshot](screenshots/items.jpg)
 
 ---
 
