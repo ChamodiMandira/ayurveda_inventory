@@ -4,6 +4,14 @@ A **professional, modern web-based Inventory Management System** built for Disan
 
 ---
 
+> 🌐 **Live Demo URL:** [https://cooling-useful-specialized-retro.trycloudflare.com/ayurveda_inventory/](https://cooling-useful-specialized-retro.trycloudflare.com/ayurveda_inventory/)
+>
+> 🔑 **Demo Login Credentials:**
+> - **Admin Role:** Username: `admin` | Password: `1234`
+> - **Staff Role:** Username: `pharmacist` | Password: `1234`
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
